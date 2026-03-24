@@ -1,8 +1,8 @@
 <div align="center">
 
-# Привет, я Никита 👋
+# Hello, my name is Nikita 👋
 
-### Middle Data Scientist · Moscow, Russia 🇷🇺
+### Middle Data Scientist ·
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Julian901&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Julian901)
 [![Age](https://img.shields.io/badge/Age-24-blue?style=flat-square)](https://github.com/Julian901)
@@ -20,7 +20,7 @@
 ```python
 nikita = {
     "role"       : "Middle Data Scientist",
-    "location"   : "Moscow, Russia 🇷🇺",
+    "location"   : "Earth 🌎",
     "age"        : 24,
     "email"      : "vokelood@gmail.com",
     "open_source": ["pandas", "scikit-learn"],
@@ -59,5 +59,5 @@ nikita = {
 ---
 
 <div align="center">
-  <sub>Made with ❤️ in Moscow</sub>
+  <sub>Made with ❤️</sub>
 </div>

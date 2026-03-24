@@ -6,7 +6,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Julian901&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Julian901)
 [![Age](https://img.shields.io/badge/Age-24-blue?style=flat-square)](https://github.com/Julian901)
-[![Location](https://img.shields.io/badge/📍-Moscow,_Russia-red?style=flat-square)](https://github.com/Julian901)
 [![Email](https://img.shields.io/badge/Gmail-vokelood%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vokelood@gmail.com)
 [![pandas](https://img.shields.io/badge/contributor-pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/pandas-dev/pandas)
 [![scikit-learn](https://img.shields.io/badge/contributor-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/scikit-learn/scikit-learn)

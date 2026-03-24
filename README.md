@@ -2,7 +2,7 @@
 
 # Hello, my name is Nikita 👋
 
-### Middle Data Scientist ·
+### · Middle Data Scientist ·
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Julian901&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Julian901)
 [![Age](https://img.shields.io/badge/Age-24-blue?style=flat-square)](https://github.com/Julian901)

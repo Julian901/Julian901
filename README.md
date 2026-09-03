@@ -6,7 +6,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Julian901&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Julian901)
 [![Age](https://img.shields.io/badge/Age-24-blue?style=flat-square)](https://github.com/Julian901)
-[![Email](https://img.shields.io/badge/Gmail-vokelood%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vokelood@gmail.com)
 [![pandas](https://img.shields.io/badge/contributor-pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/pandas-dev/pandas)
 [![scikit-learn](https://img.shields.io/badge/contributor-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/scikit-learn/scikit-learn)
 [![great-expectations](https://img.shields.io/badge/contributor-great--expectations-FF6B4A?style=flat-square&logo=python&logoColor=white)](https://github.com/great-expectations/great_expectations)
@@ -19,10 +18,9 @@
 
 ```python
 nikita = {
-    "role"       : "Middle Data Scientist",
+    "role"       : "Senior Data Scientist",
     "location"   : "Earth 🌎",
     "age"        : 24,
-    "email"      : "vokelood@gmail.com",
     "open_source": ["pandas", "scikit-learn", "great-expectations"],
     "passion"    : ["ML", "NLP", "Data Analysis"],
     "currently"  : "Contributing to open-source & building cool things",
